@@ -69,7 +69,8 @@ authentification avec OAuth 2.0 et Google :
 
 
 /auth avec Github :
-![image1111](https://github.com/LAAFOU-Nisrine/S-curit-Oauth2-OIDC-JWT-Keycloak/assets/155231145/0b90843d-a76a-42f3-be9b-32a5e837e825)
+![image1111](https://github.com/Meryem001/-S-curit-Oauth2-OIDC-JWT-Keycloak/assets/125767687/29016a82-771d-4854-9446-481c033c8326)
+
 
 
 /auth avec Keycloak :
