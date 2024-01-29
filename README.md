@@ -60,7 +60,8 @@ test  d'authentification avec Client ID et Client Secret (avec postman) :
 
 authentification avec OAuth 2.0 et Google :
 <img width="960" alt="Capture d'écran 2024-01-13 224703" src="https://github.com/imadett88/Spring-Microservices-Security-using-Oauth2-OIDC-with-Keycloak/assets/83021588/39f1fcc7-8a78-4b22-941c-c90722a7aa68">
-<img width="937" alt="Capture_2" src="https://github.com/Meryem001/-S-curit-Oauth2-OIDC-JWT-Keycloak/assets/125767687/32dc5d8b-ad58-433d-8a0d-463a2ec41bf5">
+<img width="937" alt="Capture_2" src="https://github.com/Meryem001/-S-curit-Oauth2-OIDC-JWT-Keycloak/assets/125767687/9eef6a4f-79d9-4c30-8c88-b4d92b31c455">
+
 
 <img width="960" alt="Capture d'écran 2024-01-13 231525" src="https://github.com/imadett88/Spring-Microservices-Security-using-Oauth2-OIDC-with-Keycloak/assets/83021588/e55db521-c960-4fe6-abef-f1c06e62c6bc">
 
